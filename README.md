@@ -11,7 +11,7 @@ Jittering augmentation and an extremum-penalized loss (Eq. 1) improve strong sou
 (Bz < -20 nT) predictions. The predicted Bz drives the O'Brien & McPherron (2000) Dst model
 and extends the horizon of the deep learning SYM-H model of Son et al. (2026).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1406532534.svg)](https://doi.org/10.5281/zenodo.23176084)
 
 ## Layout
 

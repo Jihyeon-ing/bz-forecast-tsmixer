@@ -5,7 +5,7 @@ title: "bz-forecast-tsmixer: TSMixer-based IMF Bz forecasting and its applicatio
 version: 1.0.0
 license: MIT
 repository-code: "https://github.com/Jihyeon-ing/bz-forecast-tsmixer"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.23176085"
 authors:
   - family-names: Son
     given-names: Jihyeon
