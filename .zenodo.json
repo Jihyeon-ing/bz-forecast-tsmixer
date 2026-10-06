@@ -1,0 +1,14 @@
+{
+  "title": "bz-forecast-tsmixer: TSMixer-based IMF Bz forecasting and its application to geomagnetic index prediction",
+  "upload_type": "software",
+  "description": "Model code, trained weights, test-set predictions, and scripts to reproduce every table and figure of Son, Kwak & Moon, 'Deep Learning-based IMF Bz Forecasting and Its Application to Geomagnetic Index Prediction', Space Weather. The model is a TSMixer trained on OMNI solar wind data (1998-2018) with jittering augmentation and an extremum-penalized loss, predicting IMF Bz 12 hours ahead during southward intervals. The predicted Bz is applied to the O'Brien-McPherron Dst model and to the deep learning SYM-H model of Son et al. (2026).",
+  "creators": [
+    {"name": "Son, Jihyeon", "affiliation": "Korea Astronomy and Space Science Institute", "orcid": "0000-0003-2678-5718"},
+    {"name": "Kwak, Young-Sil", "affiliation": "Korea Astronomy and Space Science Institute"},
+    {"name": "Moon, Yong-Jae", "affiliation": "Kyung Hee University"}
+  ],
+  "license": "MIT",
+  "keywords": ["space weather", "IMF Bz", "solar wind", "deep learning", "TSMixer", "Dst", "SYM-H", "geomagnetic storm"],
+  "access_right": "open",
+  "language": "eng"
+}

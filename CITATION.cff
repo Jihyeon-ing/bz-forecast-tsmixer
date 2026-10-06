@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper."
+type: software
+title: "bz-forecast-tsmixer: TSMixer-based IMF Bz forecasting and its application to geomagnetic index prediction"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Jihyeon-ing/bz-forecast-tsmixer"
+doi: "10.5281/zenodo.XXXXXXX"
+authors:
+  - family-names: Son
+    given-names: Jihyeon
+    affiliation: "Korea Astronomy and Space Science Institute"
+    orcid: "https://orcid.org/0000-0003-2678-5718"
+  - family-names: Kwak
+    given-names: Young-Sil
+    affiliation: "Korea Astronomy and Space Science Institute"
+  - family-names: Moon
+    given-names: Yong-Jae
+    affiliation: "Kyung Hee University"
+keywords: [space weather, IMF Bz, solar wind, deep learning, TSMixer, Dst, SYM-H]
+preferred-citation:
+  type: article
+  title: "Deep Learning-based IMF Bz Forecasting and Its Application to Geomagnetic Index Prediction"
+  journal: "Space Weather"
+  year: 2026
+  authors:
+    - family-names: Son
+      given-names: Jihyeon
+    - family-names: Kwak
+      given-names: Young-Sil
+    - family-names: Moon
+      given-names: Yong-Jae

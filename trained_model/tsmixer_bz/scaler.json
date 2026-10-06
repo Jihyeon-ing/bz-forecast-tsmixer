@@ -1,0 +1,29 @@
+{
+  "feature_names": [
+    "Bmag",
+    "Bz",
+    "V",
+    "N",
+    "P",
+    "Ey"
+  ],
+  "min_values": [
+    0.89166665,
+    -51.355,
+    256.78,
+    0.16,
+    0.039999999,
+    -30.938334
+  ],
+  "max_values": [
+    68.475,
+    38.43833,
+    1089.08,
+    64.945,
+    65.4,
+    31.791666
+  ],
+  "bz_min": -51.355,
+  "bz_max": 38.43833,
+  "note": "Min-max constants used to train the released model. Fitted on the whole dataset (1998-2025); the Bz (target) min/max both fall in the training period (1998-2018)."
+}

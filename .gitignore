@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+*.egg-info/
+# large / private raw data (see data/README.md)
+data/omni_5min_*.csv
+# training artefacts
+runs/
+checkpoints/
